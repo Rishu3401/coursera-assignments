@@ -7,6 +7,3 @@
 	window.helloSpeaker = helloSpeaker;
 
 })(window);
-© 2021 GitHub, Inc.
-Terms
-Privac
